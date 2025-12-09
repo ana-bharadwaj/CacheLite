@@ -1,8 +1,3 @@
-Got it, let’s make a clean, short `README.md` version 👇
-You can copy-paste this as is.
-
----
-
 # Kotlin Cache Visualizer
 
 Interactive **Kotlin + Compose Desktop** app to visualize how different cache strategies work.
